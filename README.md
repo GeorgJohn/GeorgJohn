@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GeorgJohn
-- 👀 I’m interested in machine learning, robotics and computer vision.
-- 🌱 I’m currently learning neuroscience
+👋 Hi, I’m @GeorgJohn
+👀 I’m interested in robotics, ai and computer vision
 
 
 <!---
