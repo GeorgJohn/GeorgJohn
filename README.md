@@ -1,4 +1,5 @@
 👋 Hi, I’m @GeorgJohn
+
 👀 I’m interested in robotics, ai and computer vision
 
 
